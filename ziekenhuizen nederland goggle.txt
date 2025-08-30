@@ -1,5 +1,5 @@
 ! name: Ziekenhuizen Nederland
-! description: Nederlandse Ziekenhuizen
+! description: Zoveel mogelijk bronnen Nederlandse Ziekenhuizen
 ! author: BA 00 31 06 33 31 48 03
 ! public: true
 
@@ -73,5 +73,6 @@ $boost=4,site=zaansmc.nl
 $boost=4,site=zgt.nl
 $boost=4,site=zorgsaam.nl
 $boost=4,site=zuyderland.nl
+
 
 
