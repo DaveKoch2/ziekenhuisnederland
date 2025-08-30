@@ -1,9 +1,10 @@
-! name: Zoveel mogelijk bronnen Nederlandse Ziekenhuizen
-! description: Zoveel mogelijk bronnen Nederlandse Ziekenhuizen
+! name: Zoveel mogelijk bronnen Nederlandse huisartsen/ziekenhuis
+! description: Zoveel mogelijk bronnen Nederlandse huisarts/ziekenhuis
 ! author: BA 00 31 06 33 31 48 03
 ! public: true
 
 
+$boost=9,site=thuisarts.nl
 $boost=9,site=amsterdamumc.nl
 $boost=9,site=adh.nl
 $boost=9,site=asz.nl
@@ -73,6 +74,7 @@ $boost=9,site=zaansmc.nl
 $boost=9,site=zgt.nl
 $boost=9,site=zorgsaam.nl
 $boost=9,site=zuyderland.nl
+
 
 
 
