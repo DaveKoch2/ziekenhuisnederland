@@ -216,6 +216,14 @@ $boost=9,site=zas.be
 $boost=9,site=ziekenhuisgeel.be
 $boost=9,site=ziekenhuiswaregem.be
 $boost=9,site=zol.be
+$boost=9,site=opgroeien.be
+$boost=9,site=vroegennabij.be
+$boost=9,site=gezondemond.be
+$boost=9,site=gezondleven.be
+$boost=9,site=eetexpert.be
+
+
+
 
 
 
