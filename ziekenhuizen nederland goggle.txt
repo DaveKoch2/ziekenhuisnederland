@@ -5,6 +5,7 @@
 
 
 $boost=9,site=thuisarts.nl
+$boost=9,site=kindengezin.be
 $boost=9,site=amsterdamumc.nl
 $boost=9,site=adh.nl
 $boost=9,site=asz.nl
@@ -215,6 +216,7 @@ $boost=9,site=zas.be
 $boost=9,site=ziekenhuisgeel.be
 $boost=9,site=ziekenhuiswaregem.be
 $boost=9,site=zol.be
+
 
 
 
